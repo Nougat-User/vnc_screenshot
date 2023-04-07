@@ -19,6 +19,6 @@ In the **out** directory, you will find screenshots named after the remote VNC s
 All the information provided in the article is for educational purposes only.
 It is strongly recommended to review the laws of your country before using the information provided.
 ```
-![alt ips](http://url/to/img.png)
-![alt out](http://url/to/img.png)
-![alt working](http://url/to/img.png)
+![alt ips](https://github.com/Nougat-User/vnc_screenshot/blob/main/ips.jpg)
+![alt out](https://github.com/Nougat-User/vnc_screenshot/blob/main/out.jpg)
+![alt working](https://github.com/Nougat-User/vnc_screenshot/blob/main/working.jpg)
