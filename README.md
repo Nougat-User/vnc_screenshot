@@ -1,6 +1,8 @@
 # vnc_screenshot
 A script that takes a screenshot from a list of IP addresses.
 
+You will need: tigervnc, xdotool.
+
 # Why
 
 You can obtain a lot of IP addresses with unconfigured VNC using **Shodan**. This allows you to monitor users, install malwares, compromise VPS (by editing the GRUB record), and disrupt HMI operations.
