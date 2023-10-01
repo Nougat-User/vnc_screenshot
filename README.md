@@ -18,7 +18,7 @@ First, download a fresh list of IP addresses using:
 In the **out** directory, you will find screenshots named after the remote VNC server's IP address and port.
 
 ```
-All the information provided in the article is for educational purposes only.
+All the information provided in this repo is for educational purposes only.
 It is strongly recommended to review the laws of your country before using the information provided.
 ```
 ![alt ips](https://github.com/Nougat-User/vnc_screenshot/blob/main/ips.jpg)
